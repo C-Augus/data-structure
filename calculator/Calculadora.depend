@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1645360765 source:c:\users\ciroa\desktop\projetos\calculadora\main.cpp
+	<iostream>
+	<string>
+	<locale.h>
+	<conio.h>
+	"funcoes.h"
+
+1645361412 c:\users\ciroa\desktop\projetos\calculadora\funcoes.h
+
+1646920353 source:c:\users\ciroa\desktop\c c++\projetos\calculadora\main.cpp
+	<iostream>
+	<string>
+	<locale.h>
+	<conio.h>
+	"funcoes.h"
+
+1646920353 c:\users\ciroa\desktop\c c++\projetos\calculadora\funcoes.h
+
